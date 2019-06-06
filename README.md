@@ -1,2 +1,0 @@
-# WalletCodigoFuente
-Codigo fuente 
